@@ -1,0 +1,25 @@
+
+{
+  "id" : 1,
+  "name" : "Harsh",
+  "course" : "B.Tech",
+  "age" : 23
+}
+{
+  "id" : 2,
+  "name" : "Harsh ",
+  "course" : "SDE Intern",
+  "age" : 23
+}
+{
+  "id" : 1,
+  "name" : "harsh",
+  "course" : "btech",
+  "age" : 23
+}
+{
+  "id" : 1,
+  "name" : "harsh",
+  "course" : "btech",
+  "age" : 23
+}
