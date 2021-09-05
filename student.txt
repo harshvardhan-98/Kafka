@@ -1,0 +1,6 @@
+{
+  "id" : 1,
+  "name" : "Harsh",
+  "course" : "B.Tech",
+  "age" : 24
+}
